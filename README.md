@@ -1,2 +1,2 @@
 # Rubiks-Cube-Solver
-Rubik's Cube solver using blind search.
+Artificial intelligence based project that solves rubik's cube using blind search technique.
